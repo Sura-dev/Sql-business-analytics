@@ -95,10 +95,7 @@ The SQL implementations are designed around questions such as:
 
 ##  Purpose
 
-This repository is part of my data analytics portfolio and demonstrates my ability to use SQL to explore data, perform analysis, solve business problems, and transform raw database information into meaningful insights.
+This repository is part of my data analytics portfolio and demonstrates my ability to use SQL to explore data, perform analysis, solve business problems, and transform raw database information into 
+meaningful insights.
+meaningful insights.
 
-
-
-**Sura**
-
-Aspiring Data Analyst | SQL | Python | Power BI | Data Analytics
